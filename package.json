@@ -1,0 +1,25 @@
+{
+  "name": "sitelint",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./lib/index.js",
+  "bin": {
+    "sitelint": "./bin/sitelint.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lelandbarton/sitelint.git"
+  },
+  "keywords": [
+    "html"
+  ],
+  "author": "Leland Barton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lelandbarton/sitelint/issues"
+  },
+  "homepage": "https://github.com/lelandbarton/sitelint#readme"
+}
